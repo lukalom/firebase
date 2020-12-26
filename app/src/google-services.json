@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44551116586",
+    "project_id": "lukafirebase",
+    "storage_bucket": "lukafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44551116586:android:9758c91d634f6d10163053",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44551116586-l1bh7dvem93bqtiqgs0g6b4ff89l5l4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKPqtWlb8UqY2wAb6-uwvQVSJehzC7Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44551116586-l1bh7dvem93bqtiqgs0g6b4ff89l5l4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
